@@ -1,2 +1,0 @@
-# trex-diamonds
-Begin app
